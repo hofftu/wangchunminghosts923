@@ -7,13 +7,13 @@
 <h4>Hosts可能仅仅就是一个上网辅助工具而已，有些时候可的确真不能光指着它，还有哦，大部分网站都是需要https打开的。</h4>
 <br />
 <h3>项目介绍:</h3>
-<p>该仓库更新最新可用的上外网hosts，使用本处的hosts可以让你获得较为完美的youtube视频体验，手机版还可以进入play商店下载应用，google服务等，并且本处的hosts在github全网公开更新的hosts体验顺畅程度上排名也比较好，欢迎你的使用。</p>
+<p>该仓库更新最新可用的上外网hosts，使用本处的hosts可以让你获得较为完美的youtube视频体验，手机版还可以进入play商店下载应用，体验较完美的google服务等，并且本处的hosts原先的时候评价也比较好，欢迎你的使用。</p>
 <br />
 <h3>本处hosts支持网站：</h3>
 <h4>新闻网站：</h4>
 <p>美国之音、路透社、博讯、华尔街日报、维基解密、大纪元、新唐人、维基新闻、纽约时报大部分页面 等</p>
 <h4>互联网服务：</h4>
-<p>Google（全系列服务已完美支持，除了blogger，bloggger用户网址只添加了部分知名用户）、Youtube（可以看视频）、duckduckgo、Twitter、facebook、yahoo、frlicker、dropbox、soundcloud、tumblr、wikipedia、telegram（不支持客户端）、Microsoft部分被墙服务 等</p>
+<p>Google（全系列服务已完美支持，除了blogger，bloggger用户网址只添加了部分知名用户）、Youtube（可以看视频）、duckduckgo、Twitter、facebook、yahoo、frlicker、dropbox、soundcloud、tumblr、wikipedia、telegram（不支持客户端）、daylimotion、Microsoft部分被墙服务 等</p>
 <h4>其他类互联网网站：</h4>
 <p>archive.org（不支持查看收藏的东西，因为需要添加的网址高达几百万个）、github被墙部分页面 等</p>
 <h4>目前正在抓包调试：</h4>
