@@ -10,7 +10,14 @@
 <br />
 <h3>本处hosts支持网站：</h3>
 <h4>新闻网站：</h4>
-<p>美国之音、路透社、博讯、华尔街日报、维基解密、维基新闻、纽约时报大部分页面 等</p>
+<p>美国之音、路透社、博讯、华尔街日报、维基解密、大纪元、新唐人、维基新闻、纽约时报大部分页面 等</p>
 <h4>互联网服务：</h4>
-<p>Google、Youtube（可以看视频）、duckduckgo、Twitter、facebook、yahoo、frlicker、dropbox、soundcloud、tumblr、wikipedia、Microsoft部分被墙服务 等</p>
+<p>Google（全系列服务已完美支持，除了blogger，bloggger用户网址只添加了部分知名用户）、Youtube（可以看视频）、duckduckgo、Twitter、facebook、yahoo、frlicker、dropbox、soundcloud、tumblr、wikipedia、telegram（不支持客户端）、Microsoft部分被墙服务 等</p>
+<h4>其他类互联网网站：</h4>
+<p>archive.org（不支持查看收藏的东西，因为需要添加的网址高达几百万个）、github被墙部分页面 等</p>
+<h4>目前正在抓包调试：</h4>
+<p>slideshare、filpborad</p>
+
+<br />
+<h4>还有部分网站没有在上面列出。</h4?
 </html>
