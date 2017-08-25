@@ -2,7 +2,7 @@
 <head>
 </head>
  <h4>本处的hosts极力推荐移动用户使用，移动用的最爽。</h4>
- <h4?linux下实在不会修改hosts的话可以看看这里:https://www.youtube.com/watch?v=etF_rEXF0h8&t=5s</h4>
+ <h4>linux下实在不会修改hosts的话可以看看这里:https://www.youtube.com/watch?v=etF_rEXF0h8&t=5s</h4>
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966" />
 <br />
 <h3>特别说明：</h3>
