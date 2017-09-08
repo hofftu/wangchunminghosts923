@@ -1,5 +1,8 @@
 <html>
 <head>
+<meta>
+<meta name"keywords" content="2017hosts,wangchunming,githubhosts,怎么才能上google,怎么才能上谷歌,怎么才能用googleplay,googleplay打不开,能看youtube的hosts,能上谷歌的hosts,googlehosts">
+</meta>
 </head>
 <p>注意：本处提供的电脑版本hosts如果要用在手机上，那么仅能用于安卓手机Android7.1.2及以上版本，如果用在以下会功能不正常，不过，还是不建议在手机上使用hosts</p>
 <p>我这人吧，爱忘事，需要更新的时候我知道以后假如忘了你也可以催催我，不用不好意思：<a href="mailto:chunmingshq@gmail.com">猛戳这里发邮件或者是发信到chunmingshq@gmail.com</a></p>
