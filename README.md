@@ -1,8 +1,8 @@
 <html>
 <head>
 </head>
-<h4>注意：本处提供的电脑版本hosts如果要用在手机上，那么仅能用于安卓手机Android7.1.2及以上版本，如果用在以下会功能不正常，不过，还是不建议在手机上使用hosts</h4>
- <h4>蓝灯安卓破解版：https://github.com/wangchunming/2017hosts/raw/master/other-proxy-soft/%E8%93%9D%E7%81%AF%EF%BC%88%E7%A0%B4%E8%A7%A3%E7%89%88%EF%BC%89.apk</h4>
+<p>注意：本处提供的电脑版本hosts如果要用在手机上，那么仅能用于安卓手机Android7.1.2及以上版本，如果用在以下会功能不正常，不过，还是不建议在手机上使用hosts</p>
+<p>我这人吧，爱忘事，需要更新的时候我知道以后假如忘了你也可以催催我，不用不好意思：<a href="mailto:chunmingshq@gmail.com">1</a></p>
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966" />
 <br />
 <br />
