@@ -4,6 +4,7 @@
 <meta name"keywords" content="2017hosts,wangchunming,githubhosts,怎么才能上google,怎么才能上谷歌,怎么才能用googleplay,googleplay打不开,能看youtube的hosts,能上谷歌的hosts,googlehosts">
 </meta>
 </head>
+<h3>重要消息：因为刚刚更换上的代理ip有人拿其反代twitter，所以ip被中国移动封了。<h3>
 <p>注意：本处提供的电脑版本hosts如果要用在手机上，那么仅能用于安卓手机Android7.1.2及以上版本，如果用在以下会功能不正常，不过，还是不建议在手机上使用hosts</p>
 <p>回复：Facebook和archive失效问题已收到，下周一起更，twitter问题暂无法解决。</p>
 <img src="https://camo.githubusercontent.com/af4cf563b43a022ec902562c91c26521d2ed9dbb/68747470733a2f2f7777772e676f6f676c652e636f6d2f6c6f676f732f646f6f646c65732f323031362f686f6c69646179732d323031362d6461792d332d736f75746865726e2d68656d697370686572652d353138353031313932393035353233322d687032782e676966" />
